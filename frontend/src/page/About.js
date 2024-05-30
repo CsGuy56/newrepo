@@ -48,7 +48,7 @@ const About = () => {
       Welcome to FruitCart, your number one source for fresh and delicious fruits. We're dedicated to giving you the very best of nature's bounty, with a focus on quality, freshness, and customer service.
     </p>
     <p style={styles.paragraph}>
-      Founded in 2024 by Adarsh, FruitCart has come a long way from its beginnings in a home kitchen. When Sanjeev first started out, her passion for providing the best seasonal fruits drove her to quit her day job, do tons of research, and turn hard work and inspiration into a booming online store. We now serve customers all over the country and are thrilled to be a part of the eco-friendly, fair trade wing of the fruit industry.
+      Founded in 2024 by Adarsh, FruitCart has come a long way from its beginnings in a home kitchen. When Adarsh first started out, her passion for providing the best seasonal fruits drove her to quit her day job, do tons of research, and turn hard work and inspiration into a booming online store. We now serve customers all over the country and are thrilled to be a part of the eco-friendly, fair trade wing of the fruit industry.
     </p>
     <p style={styles.paragraph}>
       We hope you enjoy our fruits as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
